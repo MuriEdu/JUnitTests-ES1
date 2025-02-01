@@ -23,6 +23,5 @@ mvn package
 em seguida navegue até a pasta /JUnityTests-ES1/target e rode:
 
 ```shell
-chmod +x JUnityTests-ES1-1.0.jar 
 java -jar JUnityTests-ES1-1.0.jar 
 ```
