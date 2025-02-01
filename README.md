@@ -1,7 +1,7 @@
 # Descrição
 O projeto consiste na implementação de testes de unidade para a disciplina de Engenharia de Software 1 da Universidade Federal de São Carlos.
 Este código contem classes que simulam o funcionamento de um mercado, com as funções de adicionar um produto, consultar seu preço, verificar estoque e realizar uma venda.
-Os testes combrem as 4 classes: Produto, Estoque, Mercado e Simulador Mercado.
+Os testes cobrem as 4 classes: Produto, Estoque, Mercado e Simulador Mercado.
 
 # Como utilizar:
 
