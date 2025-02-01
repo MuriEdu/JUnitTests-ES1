@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>JUnityTests-ES1</artifactId>
+    <artifactId>JUnitTests-ES1</artifactId>
     <version>1.0</version>
 
     <properties>
